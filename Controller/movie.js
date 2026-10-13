@@ -7,5 +7,9 @@ function movieAdd() {
 }
 
 function deleteMovie() {
-    console.log("ini delete movie");
+    console.log("ini delete movie"):
+}
+
+function updateMovie() {
+    console.log("ini add movie");
 }
