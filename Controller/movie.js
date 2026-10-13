@@ -5,3 +5,7 @@ function Movie() {
 function movieAdd() {
     console.log("ini add movie");
 }
+
+function updateMovie() {
+    console.log("ini add movie");
+}
